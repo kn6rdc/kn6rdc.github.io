@@ -1,0 +1,94 @@
+/* -----------------------------------------
+   KN6RDC QRP Amateur Radio
+   Main stylesheet
+   ----------------------------------------- */
+
+body {
+    margin: 0;
+    padding: 0;
+
+    background: #f4f1e8;
+    color: #292929;
+
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 17px;
+    line-height: 1.7;
+}
+
+.site {
+    max-width: 900px;
+    margin: 40px auto;
+    padding: 0 30px;
+}
+
+/* Header */
+
+header {
+    padding-bottom: 15px;
+    border-bottom: 1px solid #aaa;
+}
+
+header h1 {
+    margin: 0;
+    font-size: 38px;
+    font-weight: normal;
+}
+
+.tagline {
+    margin: 2px 0 0 0;
+    color: #666;
+    font-size: 18px;
+}
+
+/* Navigation */
+
+nav {
+    padding: 12px 0;
+    border-bottom: 1px solid #aaa;
+}
+
+nav a {
+    margin-right: 22px;
+}
+
+/* Main content */
+
+main {
+    padding: 25px 0 40px 0;
+}
+
+h2 {
+    margin-top: 30px;
+    margin-bottom: 8px;
+
+    font-size: 25px;
+    font-weight: normal;
+}
+
+p {
+    max-width: 700px;
+}
+
+ul {
+    padding-left: 25px;
+}
+
+/* Links */
+
+a {
+    color: #174f7e;
+}
+
+a:hover {
+    color: #8b4513;
+}
+
+/* Footer */
+
+footer {
+    border-top: 1px solid #aaa;
+    padding-top: 12px;
+
+    color: #777;
+    font-size: 14px;
+}
