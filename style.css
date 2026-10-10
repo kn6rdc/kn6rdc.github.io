@@ -83,6 +83,20 @@ a:hover {
     color: #8b4513;
 }
 
+/* Images */
+
+.shack-image {
+    float: right;
+    width: 300px;
+    max-width: 45%;
+    height: auto;
+    margin: 0 0 15px 20px;
+}
+
+.clear-float {
+    clear: both;
+}
+
 /* Footer */
 
 footer {
